@@ -1,16 +1,18 @@
-### Hi there 👋
+👋, Cześć jestem Michał
 
-<!--
-**Michaluszeq/Michaluszeq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Skills: VUE JS / REACT / JS / HTML / CSS/ C#
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on this page. 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Michaluszeq)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/michaluszeq-undefined-26485b29b//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/michaluszeq//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/https://stackoverflow.com/users/23330467/micha%c5%82-kocio%c5%82ek)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/spotify.svg' alt='spotify' height='40'>](https://open.spotify.com/user/b81pf5gav9goof31m8vc0y2au?si=f49408c58c5444cd)  
+
+<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Michaluszeq)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Michaluszeq)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub metrics](https://metrics.lecoq.io/Michaluszeq)  
+
