@@ -2,7 +2,7 @@
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7d484dc9-68a9-4ee6-a767-aea59035c12d" width="500">
 
 
-<p align="left"></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=michaluszeq&label=Profile%20views&color=0e75b6&style=flat" alt="michaluszeq" /> </p>
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 - 📫 How to reach me **michalkociolek999@gmail.com**
 
