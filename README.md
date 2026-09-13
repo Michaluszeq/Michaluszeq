@@ -195,7 +195,7 @@ Open to opportunities as a:
 
 ### 📫 Let's Connect
 
-<a href="TWÓJ_LINKEDIN_URL">
+<a href="[TWÓJ_LINKEDIN_URL](https://www.linkedin.com/in/micha%C5%82-kocio%C5%82ek-26485b29b/)">
   <img src="https://img.shields.io/badge/LinkedIn-Michał%20Kociołek-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
