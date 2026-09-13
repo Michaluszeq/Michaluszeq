@@ -8,7 +8,7 @@
 
 I turn data into clear insights and actionable business decisions.
 
-<a href="TWÓJ_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/micha%C5%82-kocio%C5%82ek-26485b29b/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
